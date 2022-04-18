@@ -1,4 +1,4 @@
-#Nirav Prajapati
+#author : Nirav Prajapati
 class library:
     def __init__(self,list,name):
         self.booklist=list
